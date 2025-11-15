@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino / VSCode
+*.tmp
+*.bak
+*.swp
+*.hex
+*.elf
+.vscode/
+*.log
+
+# Secrets / configs
+src/secrets.h
+.env
+
+# Node / build nodes (if any)
+node_modules/
