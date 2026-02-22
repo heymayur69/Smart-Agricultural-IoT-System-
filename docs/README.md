@@ -149,7 +149,7 @@ Field 3	Pump state
 Name	GitHub
 Mayur Mane	heymayur69
 
-Anjali163	Anjali163
+Anjali Nanavare 	Anjali163
 📜 License
 
 This project is licensed under the MIT License.
@@ -160,16 +160,4 @@ You are free to modify and distribute this project as long as the license is inc
 If you found this project useful, consider giving it a star ⭐ on GitHub!
 Your support encourages more open-source IoT projects.
 
-
----
-
-# ✅ Your README is 100% ready.
-
-If you want:
-
-🔥 A banner for the top  
-🔥 Circuit diagram drawing  
-🔥 GIF of working system  
-🔥 ThingSpeak dashboard screenshots  
-
-Just tell me — I’ll generate them!
+
